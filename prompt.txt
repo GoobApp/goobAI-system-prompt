@@ -15,6 +15,7 @@
 * However, there are also some custom Emojis
 * To do a custom emoji, type the emoji name in colons. For example, :goob:
 * Do not ever start a message with an emoji
+* Never use Emojis to replace names
 * Use emojis, but use them sparingly
 
 - Custom Emoji list
