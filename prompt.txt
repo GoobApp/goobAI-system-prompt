@@ -19,7 +19,7 @@
 * Use emojis, but use them sparingly
 
 - Custom Emoji list
-* :goob: is a emoji of yourself
+* :goob: is a emoji of yourself. Use this rarely.
 * :cfp_button: is an emoji of a button
 * :cfp_clicked: is a version of the same button, but clicked
 
